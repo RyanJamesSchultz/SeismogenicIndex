@@ -1,6 +1,6 @@
 # SeismogenicIndex
 
-We present a Matlab-based routine, Bval that calculates the Seismogenic Index as a result of induced seismicity.  This code could be readily adapted or modified for a broad range of seismological applications.
+We present a Matlab-based routine, SeismogenicIndex that calculates the Seismogenic Index as a result of induced seismicity.  This code could be readily adapted or modified for a broad range of seismological applications.
 
 For sample use, see "script.m" to recreate figures similar to 3B and S9 within the corresponding manuscript (Schultz et al., 2018).
 
